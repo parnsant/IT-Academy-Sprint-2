@@ -10,7 +10,7 @@ Si trobes errors o tens suggeriments, si us plau, crea una issue o fes una pull 
 
 <b>Contacte</b><br>
 
-Autor/a: Paula Arnas<br>
+Paula Arnas<br>
 Usuari a Discord: parnas1752<br>
 
 🔗 Enllaç al projecte: [Repositori GitHub](https://github.com/parnsant/IT-Academy---Sprint-2)
