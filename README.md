@@ -1,5 +1,5 @@
 # IT Academy - Sprint 2
-# Bases de Dades Relacionals: Introducció Pràctica
+# BDD relacionals i introducció a SQL
 
 <b>Descripció</b><br>
 
